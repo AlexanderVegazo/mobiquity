@@ -1,2 +1,14 @@
 # Project exclude paths
-/target/
+
+target
+*.iws
+*.ipr
+*.iml
+.classpath
+.project
+.settings
+.springBeans
+.idea
+classes/
+lib/
+rest-assured-all/dependency-reduced-pom.xml
